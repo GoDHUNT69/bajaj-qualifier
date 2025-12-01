@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+bfhl:
+  name: "Prashant Choudhary"           
+  regNo: "22BCE1420"          
+  email: "prashant.choudhary2022@vitstudent.ac.in"  
+  generate-url: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
